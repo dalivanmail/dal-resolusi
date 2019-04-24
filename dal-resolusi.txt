@@ -1,0 +1,5 @@
+Dal Resolusi
+- Project berbasis apps mobile
+- Project terintegrasi oleh web using PHP dan AJAX
+- Project multifuntion
+- Available for user or company
